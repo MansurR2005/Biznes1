@@ -26,7 +26,7 @@ export default function BigImg() {
                         <h1 className={cls.LogoTitle}>qqqo1atbardosh va. eng kuchli SMM agenstvo ochish uchun <br /> nimalarni bilish kerak: Doniyor
                             Abdullayevdan maslahatlar</h1>
                         <h3 className={cls.lormText}>
-                            Bugungi kunda SMM sohasi eng keng tarqalgan va katta talabga ega sohalardan biriga <br /> aylandi.
+                            Bugungi kunda SMM sohasi eng keng tarqalgan va katta  talabga ega sohalardan biriga <br /> aylandi.
                             Ushbu sohaga bo‘lgan zaruriyat, unga qiziquvchilar sonini keskin oshirdi. Buni...
                         </h3>
                         <div className={cls.containerDescription}>
